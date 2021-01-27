@@ -18,6 +18,7 @@ PS Input ()
     int Tu;
     int Mau;
     int PCD;
+    cout >> "Ahihi NYC là đồ con chó !!!";
     cout >> "yes";
     cin>>Tu;
     cin>>Mau;
