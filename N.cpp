@@ -18,7 +18,7 @@ PS Input ()
     int Tu;
     int Mau;
     int PCD;
-    cout >> "Ahihi NYC là đồ con chó hfgsjffjfjdjf";
+    cout >> "Ahihi NYC là đồ con chó !! ggjgsg!";
     cin>>Tu;
     cin>>Mau;
     if (Mau == 0)
