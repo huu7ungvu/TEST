@@ -17,6 +17,7 @@ PS Input ()
     PS Temp;
     int Tu;
     int Mau;
+    int PCD;
     cin>>Tu;
     cin>>Mau;
     if (Mau == 0)
